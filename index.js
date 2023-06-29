@@ -1,4 +1,7 @@
 
+console.log("Boot BInance-Spot");
+
+
 require("dotenv").config();
 const WebSocket = require("ws");
 const axios = require("axios");
